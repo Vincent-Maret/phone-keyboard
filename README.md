@@ -8,4 +8,4 @@
 
 ```node index.js```
 
-Fell free to edit index.js file in order to test various codes
+Feel free to edit index.js file in order to test various codes
