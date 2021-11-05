@@ -13,7 +13,6 @@ const KEYBOARD = {
 }
 
 /**
- * 
  * @param {string | number} code 
  * @returns {string[]} words from WORDS matching given @param code
  * complexity O(n)
@@ -39,7 +38,6 @@ function findMatchingWordsFromCode(code) {
 
 
 /**
- * 
  * @param {string} code 
  * @param {string} word 
  * @returns {boolean} stating if given @param word is matching @param code
