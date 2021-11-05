@@ -4,7 +4,7 @@
 
 - node.js
 
-## usage
+## Usage
 
 ```node index.js```
 
