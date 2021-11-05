@@ -72,6 +72,10 @@ function isValidWord(code, word) {
     return chars.length === 0
 }
 
-
-const matchingWords = findMatchingWordsFromCode(22374253)
+/**
+ * Test code
+ * Fell free to change code value to test various codes
+ */
+const code = 22374253
+const matchingWords = findMatchingWordsFromCode(code)
 console.log(matchingWords)
